@@ -1,0 +1,5 @@
+gcp_credentials = "xyz-03e1e3cfa7fb.json"
+gcp_project_id = "kubernetes"
+gcp_region = "us-central1"
+gke_network_vpc_name = "gke-vpc"
+gke_subnetwork= "gke-private-subnet-us-central1"

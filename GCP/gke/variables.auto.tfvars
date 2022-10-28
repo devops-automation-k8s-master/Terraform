@@ -1,0 +1,11 @@
+gcp_credentials = "ddddddd-03e1e3cfa7fb.json"
+gcp_project_id = "ddddddd"
+gcp_region = "us-central1"
+gke_region = "us-central1"
+gke_zones = ["us-central1-a"]
+gke_cluster_name = "gke-cluster"
+gke_network_vpc_name = "gke-vpc"
+gke_subnetwork= "gke-private-subnet-us-central1"
+gke_service_account = "terraform-gke@.iam.gserviceaccount.com"
+gke_compute_nodepool_name = "compute-resource-node-pool"
+gke_memory_utilisation_nodepool_name = "memory-resource-node-pool"
