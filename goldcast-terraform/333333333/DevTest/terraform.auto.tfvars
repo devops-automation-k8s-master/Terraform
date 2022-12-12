@@ -1,6 +1,6 @@
 # Common
 region          = "us-east-1"
-owner           = "nethermind"
+owner           = "goldcast"
 environment     = "developement"
 project         = "kube-cost"
 network         = "all"
